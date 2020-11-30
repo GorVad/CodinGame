@@ -8,6 +8,7 @@ using System.Collections.Generic;
 /**
  * Auto-generated code below aims at helping you parse
  * the standard input according to the problem statement.
+ * URL: https://www.codingame.com/ide/puzzle/shadows-of-the-knight-episode-1
  **/
 class Player
 {
